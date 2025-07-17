@@ -65,3 +65,11 @@ Then run:
 import joblib
 model = joblib.load('xgb_final_model_thresh045.pkl')
 ````
+
+Note:
+
+The dataset used for this project is publicly available on Kaggle:
+
+[Loan Default Prediction Dataset](https://www.kaggle.com/datasets/nikhil1e9/loan-default).
+
+Due to its size, it is not included in this repository. Please download it manually from the link above if you wish to reproduce or extend this analysis.
